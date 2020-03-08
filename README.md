@@ -38,6 +38,10 @@ Font in use <a target="_blank" href="https://fonts.google.com/specimen/Comfortaa
 To embed your selected fonts into a webpage, copy this code into the <head> of your HTML document.
 
     <link href="https://fonts.googleapis.com/css?family=Comfortaa&display=swap" rel="stylesheet">
+    
+all weights
+  
+    <link href="https://fonts.googleapis.com/css?family=Comfortaa:300,400,500,600,700&display=swap" rel="stylesheet"> 
   
 #### Specify in CSS
 
