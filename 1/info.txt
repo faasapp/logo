@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Comfortaa-Bold
+font link: https://fonts.google.com/specimen/Comfortaa
+font author: Johan Aakerlund
+font author site: https://aajohan.deviantart.com/
+
+
+icon designer: Ivan Colic
+icon designer link: /Ivanisawesome
+        
+
+fontColor: {"hex":"#FF950D"}
+bgColor: {"hex":"#FFFFFF"}
+iconColor: {"hex":"#FF950D"}
+
+      
